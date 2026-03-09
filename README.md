@@ -1,7 +1,10 @@
 # Hi there, I'm [Jianbo Sui] 👋
 ### 🔬 Researcher & Engineer | Biomechanics | Medical Device Design | Surgical Robotics
-I am a researcher and engineer dedicated to the intersection of **mechanical engineering and clinical medicine**. My work focuses on the development of advanced medical devices, with a specific emphasis on vascular injury mechanisms and orthopedic fixation systems.
-I bridge the gap between theoretical finite element analysis (FEA) and high-precision experimental validation.
+
+I am a researcher and engineer dedicated to the intersection of **mechanical engineering and clinical medicine**. My work focuses on the development of advanced medical devices, with a specific emphasis on vascular injury mechanisms and orthopedic fixation systems. 
+
+<!--- I bridge the gap between theoretical finite element analysis (FEA) and high-precision experimental validation.--->
+
 ---
 ### 📫 Let's Connect!
 
